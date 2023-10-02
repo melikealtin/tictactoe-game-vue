@@ -10,6 +10,10 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Screenshots
+
+![game-app](https://github.com/melikealtin/tictactoe-game-vue/blob/master/Screenshot%20.png)
+
 ## Project Setup
 
 ```sh
